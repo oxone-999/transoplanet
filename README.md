@@ -1,5 +1,8 @@
 # Google Shopping Product Scraper
 
+### Developer : Anuj Verma
+### Institute : IIT Kharagpur
+
 ## Project Description
 The Google Shopping Product Scraper is a web application that allows users to search for products using keywords. The application scrapes Google Shopping search results and displays product information, including the product name, price, and an image. Additionally, users can listen to the product names in speech.
 
