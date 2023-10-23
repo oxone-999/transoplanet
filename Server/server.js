@@ -94,7 +94,6 @@ async function pageNext(page, seenProducts, cacheKey) {
       if (productName && priceMatch && image) {
         const extractedPrice = priceMatch[1].replace(/,/g, "");
         const productItem = {
-          id: Math.random(),
           name: productName,
           price: extractedPrice,
           image,
