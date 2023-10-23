@@ -9,12 +9,7 @@ The Google Shopping Product Scraper is a web application that allows users to se
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Prerequisites
 Before you begin, make sure you have the following requirements in place:
 
