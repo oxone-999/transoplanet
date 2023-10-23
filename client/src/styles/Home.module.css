@@ -126,3 +126,18 @@ button {
   border-radius: 2rem;
   padding: 1rem;
 }
+
+.empty{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 60%;
+}
+
+.empty h3{
+  font-size: 2rem;
+  font-weight: bold;
+  color: #e13c3c;
+}
